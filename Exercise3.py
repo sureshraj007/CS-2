@@ -13,7 +13,7 @@ pay = int(hours) * float(rate)
 print('Pay: ', pay)
 
 # Output:
-# PS C:\> python.exe '.\Exercise 3.py'
+# PS C:\> python.exe '.\Exercise3.py'
 # Enter Hours: 35
 # Enter Rate: 2.75
 # Pay:  96.25
